@@ -1,4 +1,4 @@
-# VoiceControlledAutomation
+# Voice Controlled Automation
 
 This is a code snippet for a voice controlled home automation program.
 
